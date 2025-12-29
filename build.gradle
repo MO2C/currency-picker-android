@@ -16,6 +16,7 @@ buildscript {
 }
 
 allprojects {
+  group = "com.github.MO2C"
   repositories {
     google()
     mavenCentral()
