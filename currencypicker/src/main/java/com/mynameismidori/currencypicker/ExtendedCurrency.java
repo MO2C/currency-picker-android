@@ -102,7 +102,7 @@ public class ExtendedCurrency {
             new ExtendedCurrency("YER", "Yemen Rial","﷼", R.drawable.flag_yer),
             new ExtendedCurrency("ZAR", "South Africa Rand","R", R.drawable.flag_zar),
             new ExtendedCurrency("GTQ", "Guatemala Quetzal","Q", R.drawable.flag_gtq),
-            new ExtendedCurrency("LSL", "Lesotho Loti","L", R.drawable.flag_ls)
+            new ExtendedCurrency("LSL", "Lesotho Loti","M", R.drawable.flag_ls)
     };
     private String code;
     private String name;
